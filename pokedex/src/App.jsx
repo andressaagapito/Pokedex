@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
+import { HashRouter, Routes, Route, Link } from "react-router-dom";
 
 import "./index.css";
 
@@ -8,7 +8,7 @@ import Search from "./Search";
 
 const App = (props) => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <header>
           <h1>Pokedex</h1>
@@ -28,7 +28,7 @@ const App = (props) => {
           <Route path="/search" element={<Search />} />
         </Routes>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
