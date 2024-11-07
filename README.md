@@ -14,8 +14,4 @@ Este projeto é uma aplicação web interativa desenvolvida em ReactJS, que simu
   
 - **Consumo de API:** Utiliza dados da PokéAPI para fornecer informações precisas e atualizadas de Pokémon.
 
-## Desafios e Aprendizados
-
-Este projeto aprimorou meu conhecimento em gerenciamento de estado no React, comunicação com APIs e estilização responsiva. Além disso, trabalhei a lógica de filtragem e a organização dos componentes para tornar a experiência de usuário mais intuitiva e funcional.
-
 **[https://andressaagapito.github.io/pokedex/](#)**
