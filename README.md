@@ -1,4 +1,4 @@
-# Pokedex Web Application
+# Pokedex: Aplicação Web.
 
 **Tecnologias Utilizadas:** ReactJS, CSS, API externa de Pokémon.
 
